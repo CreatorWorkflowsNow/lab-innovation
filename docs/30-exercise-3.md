@@ -13,6 +13,9 @@ App Engine Innovation Workshop Lab Guide
 
 # Exercise 3: Configure List & Form Layout
 
+[Prev](20-exercise-2.md){: .btn .mr-2 .fs-2}
+[Next](40-exercise-4.md){: .btn .btn-green .fs-2}
+
 Goal
 {: .fs-6 .fw-300 }
 
@@ -121,3 +124,6 @@ Configure the Activity List & Form
 
 CONGRATULATIONS! You just achieved to set up your list and form for future use.
 {: .fs-6 .fw-300 }
+
+[Prev](20-exercise-2.md){: .btn .mr-2 .fs-2}
+[Next](40-exercise-4.md){: .btn .btn-green .fs-2}

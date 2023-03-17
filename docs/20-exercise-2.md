@@ -17,8 +17,6 @@ App Engine Innovation Workshop Lab Guide
 [Prev](10-exercise-1.md){: .btn .mr-2 .fs-2}
 [Next](30-exercise-3.md){: .btn .btn-green .fs-2}
 
-
-
 Goal
 {: .fs-6 .fw-300 }
 
@@ -204,3 +202,6 @@ You have just created two new tables for your app. The tables and their data wil
 You used two different methods to create those tables. The first, uploading an Excel spreadsheet and the second, extending form an existing table in your instance.
 
 > **Remember**: the *Task* table is a very central and important table in ServiceNow. Starting workflows by extending from the Task table provides a lot of functionality to your app as a baseline. That is a very nice and fast way to jump start new applications.
+
+[Prev](10-exercise-1.md){: .btn .mr-2 .fs-2}
+[Next](30-exercise-3.md){: .btn .btn-green .fs-2}

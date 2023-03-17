@@ -13,6 +13,9 @@ App Engine Innovation Workshop Lab Guide
 
 # Exercise 5 - Create a Teachers Workspace
 
+[Prev](40-exercise-4.md){: .btn .mr-2 .fs-2}
+[Next](90-summary.md){: .btn .btn-green .fs-2}
+
 Goal
 {: .fs-6 .fw-300 }
 
@@ -87,3 +90,5 @@ Results
 
 You just have created your first Workspace with App Engine Studio, just within a few clicks.
 
+[Prev](40-exercise-4.md){: .btn .mr-2 .fs-2}
+[Next](90-summary.md){: .btn .btn-green .fs-2}

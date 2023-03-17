@@ -11,7 +11,10 @@ App Engine Innovation Workshop Lab Guide
 ---
 {: .mt-0}
 
-# Exercise 4: Start the process from the Parents Portal
+# Exercise 4: Start from Parents Portal
+
+[Prev](30-exercise-3.md){: .btn .mr-2 .fs-2}
+[Next](50-exercise-5.md){: .btn .btn-green .fs-2}
 
 Goal
 {: .fs-6 .fw-300 }
@@ -213,3 +216,6 @@ Click that record on the first column, to open the record in Form view.
 
 Congratulations, you have successfully created an easy to use form to create new activities.
 This Form can easily be found and used from your central Service Portal.
+
+[Prev](30-exercise-3.md){: .btn .mr-2 .fs-2}
+[Next](50-exercise-5.md){: .btn .btn-green .fs-2}

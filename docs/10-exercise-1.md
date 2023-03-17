@@ -11,7 +11,7 @@ App Engine Innovation Workshop Lab Guide
 ---
 {: .mt-0}
 
-# Exercise 1: Create a new App with App Engine Studio
+# Exercise 1: Create a new App with AES
 
 [Prev](05-exercise-0.md){: .btn .mr-2 .fs-2}
 [Next](20-exercise-2.md){: .btn .btn-green .fs-2}
