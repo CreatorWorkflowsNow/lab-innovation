@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to get Lab Instance
-nav_order: 5
+nav_order: 01
 permalink: /docs/how-to-get-lab-instance
 ---
 
