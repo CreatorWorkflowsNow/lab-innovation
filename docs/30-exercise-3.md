@@ -5,6 +5,12 @@ nav_order: 30
 permalink: /docs/exercise-3
 ---
 
+App Engine Innovation Workshop Lab Guide 
+{: .fs-8 .fw-300 .m-0}
+
+---
+{: .mt-0}
+
 # Exercise 3: Configure List & Form Layout
 
 Goal

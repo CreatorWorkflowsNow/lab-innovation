@@ -5,7 +5,16 @@ nav_order: 05
 permalink: /docs/exercise-0
 ---
 
+App Engine Innovation Workshop Lab Guide 
+{: .fs-8 .fw-300 .m-0}
+
+---
+{: .mt-0}
+
 # Exercise 0: Getting Started
+
+[Prev](02-introduction.md){: .btn .mr-2 .fs-2}
+[Next](10-exercise-1.md){: .btn .btn-green .fs-2}
 
 Goal
 {: .fs-6 .fw-300 }
@@ -31,3 +40,5 @@ App Engine Studio will open with a Welcome Screen. Just close this dialog by eit
 
 You are now all set to start with your hands-on exercises.
 
+[Prev](02-introduction.md){: .btn .mr-2 .fs-2}
+[Next](10-exercise-1.md){: .btn .btn-green .fs-2}

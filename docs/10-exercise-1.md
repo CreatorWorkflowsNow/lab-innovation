@@ -5,7 +5,16 @@ nav_order: 10
 permalink: /docs/exercise-1
 ---
 
+App Engine Innovation Workshop Lab Guide 
+{: .fs-8 .fw-300 .m-0}
+
+---
+{: .mt-0}
+
 # Exercise 1: Create a new App with App Engine Studio
+
+[Prev](05-exercise-0.md){: .btn .mr-2 .fs-2}
+[Next](20-exercise-2.md){: .btn .btn-green .fs-2}
 
 Goal
 {: .fs-6 .fw-300 }
@@ -46,3 +55,6 @@ In this exercise, you will create a new **App** in **App Engine Studio**. The ap
 Congratulations! You now have set up a new in *App Engine Studio* within its own App Scope.
 
 This App can easily be tested and promoted from your development instance to test and production instances. You can also invite other developers to collaborate on your app on your instance.
+
+[Prev](05-exercise-0.md){: .btn .mr-2 .fs-2}
+[Next](20-exercise-2.md){: .btn .btn-green .fs-2}

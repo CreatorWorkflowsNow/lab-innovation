@@ -1,19 +1,21 @@
 ---
 layout: default
-title: Guidebook
+title: Introduction
 nav_order: 02
 permalink: /docs/guidebook
 ---
 
-App Engine Innovation Workshop Lab Guide
-{: .fs-8 .fw-500 }
 
-- [Introduction](#introduction)
-- [Story and Overall process](#story-and-overall-process)
+App Engine Innovation Workshop Lab Guide 
+{: .fs-8 .fw-300 .m-0}
 
-
+---
+{: .mt-0}
 
 # Introduction
+
+[Prev](01-lab-instance.md){: .btn .mr-2 .fs-2}
+[Next](05-exercise-0.md){: .btn .btn-green .fs-2}
 
 *In this lab, you will learn how to set up a new App in ServiceNow using App Engine Studio.*
 {: .fs-6 .fw-300 }
@@ -64,3 +66,6 @@ The Diagram below shows the overall process that we are about to implement with 
 > **Note**: This lab focuses on the base tables needed and the user interfaces, to present.
 
 ![process diagram](../assets/images/2022-04-04-07-39-14.png)
+
+[Prev](01-lab-instance.md){: .btn .mr-2 .fs-2}
+[Next](05-exercise-0.md){: .btn .btn-green .fs-2}

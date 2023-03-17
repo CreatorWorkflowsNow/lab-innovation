@@ -18,7 +18,7 @@ OMG! You've outgrown email and spreadsheets: Now let's do this right
 Stop emailing spreadsheets to co-workers and external team members and create a single source of authority for your information. In this lab, you will learn how to import and store data, build forms and lists for easy access, and add a workflow for automation! See how fast and easy it is to unlock productivity in your organization with an app!
 {: .fs-5 .fw-300 }
 
-[Let's Go!](./docs/how-to-get-lab-instance){: .btn .btn-green .fs-4}
+[Let's Go!](./docs/lab-instance){: .btn .btn-green .fs-4}
 
 {: .note}
 > For more information see: [Product Docs: Build apps using App Engine Studio](https://docs.servicenow.com/bundle/utah-application-development/page/build/app-engine-studio/concept/aes-overview.html)

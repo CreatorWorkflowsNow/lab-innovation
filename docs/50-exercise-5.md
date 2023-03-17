@@ -5,6 +5,12 @@ nav_order: 50
 permalink: /docs/exercise-5
 ---
 
+App Engine Innovation Workshop Lab Guide 
+{: .fs-8 .fw-300 .m-0}
+
+---
+{: .mt-0}
+
 # Exercise 5 - Create a Teachers Workspace
 
 Goal

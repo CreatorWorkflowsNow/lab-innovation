@@ -5,7 +5,19 @@ nav_order: 20
 permalink: /docs/exercise-2
 ---
 
+App Engine Innovation Workshop Lab Guide 
+{: .fs-8 .fw-300 .m-0}
+
+---
+{: .mt-0}
+
 # Exercise 2: Import data and create tables
+{: .mt-2}
+
+[Prev](10-exercise-1.md){: .btn .mr-2 .fs-2}
+[Next](30-exercise-3.md){: .btn .btn-green .fs-2}
+
+
 
 Goal
 {: .fs-6 .fw-300 }
