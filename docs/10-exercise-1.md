@@ -16,10 +16,10 @@ App Engine Innovation Workshop Lab Guide
 [Prev](05-exercise-0.md){: .btn .mr-2 .fs-2}
 [Next](20-exercise-2.md){: .btn .btn-green .fs-2}
 
-Goal
-{: .fs-6 .fw-300 }
-
+## Goal
 In this exercise, you will create a new **App** in **App Engine Studio**. The application can be thought of as a *container* to place all the artifacts created within this Lab.
+
+## Steps
 
 1. To create a new **App** in **App Engine Studio**, click **Create app (1)**.
 
@@ -53,6 +53,7 @@ In this exercise, you will create a new **App** in **App Engine Studio**. The ap
     ![nav toggle](../assets/images/2022-04-04-08-22-59.png)
 
 Congratulations! You now have set up a new in *App Engine Studio* within its own App Scope.
+{: .fs-6 .fw-800 }
 
 This App can easily be tested and promoted from your development instance to test and production instances. You can also invite other developers to collaborate on your app on your instance.
 

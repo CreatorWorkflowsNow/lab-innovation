@@ -16,12 +16,12 @@ App Engine Innovation Workshop Lab Guide
 [Prev](40-exercise-4.md){: .btn .mr-2 .fs-2}
 [Next](90-summary.md){: .btn .btn-green .fs-2}
 
-Goal
-{: .fs-6 .fw-300 }
-
+## Goal
 This Lab starts from the Dashboard of your App in App Engine Studio
 
-Create the Workspace in App Engine Studio
+You will create the Workspace in App Engine Studio.
+
+## Steps
 
 1. Click **Add (1)** in the **Experience** section on your App Dashboard
 
@@ -83,10 +83,10 @@ Note, that you already can create "New" record (4), "Export" the data (5), "Edit
 
 
 Results
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-500 }
 
 !!! PERFECT !!!
-{: .fs-7 .fw-300 }
+{: .fs-6 .fw-800 }
 
 You just have created your first Workspace with App Engine Studio, just within a few clicks.
 

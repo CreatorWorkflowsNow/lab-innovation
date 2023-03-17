@@ -8,6 +8,7 @@ permalink: /docs/summary
 # Summary
 
 Let's have a short recap on the lab and what we just learned:
+{: .fs-6 .fw-800 }
 
 1. You learned how to create a new App in just a few clicks using App Engine Studio
 1. You learned about the App Dashboard and how to navigate

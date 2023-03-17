@@ -17,14 +17,14 @@ App Engine Innovation Workshop Lab Guide
 [Prev](01-lab-instance.md){: .btn .mr-2 .fs-2}
 [Next](05-exercise-0.md){: .btn .btn-green .fs-2}
 
-*In this lab, you will learn how to set up a new App in ServiceNow using App Engine Studio.*
-{: .fs-6 .fw-300 }
+In this lab, you will learn how to set up a new App in ServiceNow using App Engine Studio.
+{: .fs-6 .fw-400 }
 
-*Starting with adding tables to your app, you will also add different user interfaces to make the app shine. Additionally, you do not need to write a single line of code for this.*
-{: .fs-6 .fw-300 }
+Starting with adding tables to your app, you will also add different user interfaces to make the app shine. Additionally, you do not need to write a single line of code for this.
+{: .fs-6 .fw-400 }
 
 Lab Outline
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-400 }
 
 | Time | Task |
 |--|--|

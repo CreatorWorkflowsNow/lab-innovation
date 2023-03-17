@@ -16,15 +16,15 @@ App Engine Innovation Workshop Lab Guide
 [Prev](20-exercise-2.md){: .btn .mr-2 .fs-2}
 [Next](40-exercise-4.md){: .btn .btn-green .fs-2}
 
-Goal
-{: .fs-6 .fw-300 }
+## Goal
 
 In this exercise, you will design the list and forms for your new tables, so that they have a meaningful layout for later use.
 
 This all can be done in very fast and easy way - without writing any single line of code.
 
-Configure the Activity List & Form
-{: .fs-6 .fw-300 }
+You will configure the Activity List & Form.
+
+## Steps
 
 1. Select the **End time** field (1) and use the ***Up*** and ***Down*** buttons **(2)** to adjust the order of the field to what is shown in the screenshot.
 
@@ -123,7 +123,7 @@ Configure the Activity List & Form
     ![Form preview in platform](../assets/images/2022-04-05-13-52-33.png)
 
 CONGRATULATIONS! You just achieved to set up your list and form for future use.
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-800 }
 
 [Prev](20-exercise-2.md){: .btn .mr-2 .fs-2}
 [Next](40-exercise-4.md){: .btn .btn-green .fs-2}

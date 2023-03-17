@@ -16,13 +16,10 @@ App Engine Innovation Workshop Lab Guide
 [Prev](02-introduction.md){: .btn .mr-2 .fs-2}
 [Next](10-exercise-1.md){: .btn .btn-green .fs-2}
 
-Goal
-{: .fs-6 .fw-300 }
-
+## Goal
 This exercise provides prerequisites for subsequent exercises.
 
-Steps
-{: .fs-6 .fw-300 }
+## Steps
 
 1. Log in to your instance
 
@@ -39,6 +36,7 @@ App Engine Studio will open with a Welcome Screen. Just close this dialog by eit
 ![Getting started](../assets/images/2022-04-29-18-22-27.png)
 
 You are now all set to start with your hands-on exercises.
+{: .fs-6 .fw-800 }
 
 [Prev](02-introduction.md){: .btn .mr-2 .fs-2}
 [Next](10-exercise-1.md){: .btn .btn-green .fs-2}

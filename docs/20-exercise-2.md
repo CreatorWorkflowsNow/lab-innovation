@@ -17,21 +17,22 @@ App Engine Innovation Workshop Lab Guide
 [Prev](10-exercise-1.md){: .btn .mr-2 .fs-2}
 [Next](30-exercise-3.md){: .btn .btn-green .fs-2}
 
-Goal
-{: .fs-6 .fw-300 }
+## Goal
 
 In this exercise, you will add **new tables** to your App.
 
 This is the place where your data will be stored within your ServiceNow Instance. Because ServiceNow has a database built-in on the platform, it is very easy to create new tables for your App.
 
-Add the first table (Import from spreadsheet)
-{: .fs-6 .fw-300 }
+*Add the first table (Import from spreadsheet)*
+{: .fw-300 }
 
 The first table you create, will be set up in an **easy and fast** way, by importing and converting an existing Excel file to a working table in ServiceNow.
 
 In the same moment, you will also **import the data** from the Excel file into the new table in your App.
 
 **Let's go...**
+
+## Steps
 
 1. Start adding tables by clicking the **Add** button **(1)** in the **Data** section.
 
@@ -194,14 +195,15 @@ By *extending* an existing table, your new table inherts several fields and func
 
     ![Table verification](../assets/images/2022-04-04-09-15-42.png)
 
-!!! Congratulations !!!
-{: .fs-6 .fw-300 }
+Congratulations !!!
+{: .fs-6 .fw-800 }
 
 You have just created two new tables for your app. The tables and their data will be stored in the database of your instance.
 
 You used two different methods to create those tables. The first, uploading an Excel spreadsheet and the second, extending form an existing table in your instance.
 
-> **Remember**: the *Task* table is a very central and important table in ServiceNow. Starting workflows by extending from the Task table provides a lot of functionality to your app as a baseline. That is a very nice and fast way to jump start new applications.
+{: .note}
+> The *Task* table is a very central and important table in ServiceNow. Starting workflows by extending from the Task table provides a lot of functionality to your app as a baseline. That is a very nice and fast way to jump start new applications.
 
 [Prev](10-exercise-1.md){: .btn .mr-2 .fs-2}
 [Next](30-exercise-3.md){: .btn .btn-green .fs-2}

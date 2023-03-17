@@ -16,15 +16,14 @@ App Engine Innovation Workshop Lab Guide
 [Prev](30-exercise-3.md){: .btn .mr-2 .fs-2}
 [Next](50-exercise-5.md){: .btn .btn-green .fs-2}
 
-Goal
-{: .fs-6 .fw-300 }
-
+## Goal
 In this exercise, you will create a *Record producer* which will be made available in the *Service Catalog* of the *Service Portal*. That way, users can easily add or request new student activities.
 
 The Service Portal is the perfect one-stop-shop for all users to find all requests.
 
-Configure the Record Producer
-{: .fs-6 .fw-300 }
+You will configure the Record Producer.
+
+## Steps
 
 1. Navigate to the App Engine Studio Dashboard of your app.
 
@@ -215,6 +214,8 @@ Click that record on the first column, to open the record in Form view.
     ![Verif the recor details](../assets/images/2022-04-04-13-38-15.png)
 
 Congratulations, you have successfully created an easy to use form to create new activities.
+{: .fs-6 .fw-800 }
+
 This Form can easily be found and used from your central Service Portal.
 
 [Prev](30-exercise-3.md){: .btn .mr-2 .fs-2}
