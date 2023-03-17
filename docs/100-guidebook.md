@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Guidebook
 nav_order: 100
 permalink: /docs/guidebook
 ---
