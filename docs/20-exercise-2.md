@@ -61,7 +61,7 @@ In the same moment, you will also **import the data** from the Excel file into t
 
     > **Note**: For convenience, here is the link to the Excel spreadsheet once more:
 
-    [Click here to Download the Excel file](https://github.com/CreatorWorkflowsNow/lab-innovation/blob/master/docs/activities.xlsx)
+    [Click here to Download the Excel file](https://creatorworkflowsnow.github.io/lab-innovation/docs/activities.xlsx)
 
     ![Sample activities](../assets/images/2022-04-04-08-44-29.png)
 
